@@ -2,7 +2,7 @@ module.exports = {
     title: '测试标题', // 设置网站标题
     description: '测试描述', //描述
     dest: './dist', // 设置输出目录
-    port: 2233, //端口
+    port: 9090, //端口
     themeConfig: { //主题配置
         // 添加导航栏
         nav: [{
